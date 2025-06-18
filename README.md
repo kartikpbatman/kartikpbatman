@@ -39,4 +39,5 @@
 
 👉 [Face Detection using OpenCV](https://github.com/kartikpbatman/OpenCV_Projects)  
 👉 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025)
+👉 [GrindSEO_redesign](https://kartikpbatman.github.io/seowebsite)
 
