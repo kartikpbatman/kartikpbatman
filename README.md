@@ -1,53 +1,62 @@
-<h1 align="center">Hi, I'm Kartik Padia 👋</h1>
-<p align="center">
-  🎯 AI/ML Enthusiast | Python Developer | OpenCV Learner  
-  📍 Rajkot, Gujarat, India
-</p>
-
----
-
-### 🧰 Tech Stack
+<h1 align="center">👋 Hi! I'm Kartik Padia 💻</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  🎯 AI/ML Enthusiast | Python Developer | OpenCV Learner
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" />
+</p>
 
-## 🚀 About Me
+<hr>
+
+<h2 align="center">🧑‍💻 Tech Stack</h2>
+<br>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo"  />
+</div>
+
+<hr>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kartikpbatman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+### 🚀 About Me
 
 - 🧠 Currently learning AI/ML and building real-world projects
 - 🧪 Working on Face Detection & Recognition using OpenCV
 - 📚 Strong grasp of Python, Pandas, NumPy, Data Structures
-- 🌱 Exploring Computer Vision, ML Models, Web Automation
+- 🌱 Exploring Computer Vision, ML Models, Web Development
 - 💡 Passionate about solving real-world problems using AI
 - 📫 Email: kartikbpadia0707@gmail.com  
 - 💼 Seeking AI/ML internship opportunities
-
----
-
-## 📈 GitHub Stats & Contributions
-
-<p align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
-  <!-- Streak stats: total contributions, current & longest streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikpbatman&theme=radical" alt="GitHub Streak" /><br>
-  <!-- Profile view counter -->
-  <img src="https://komarev.com/ghpvc/?username=kartikpbatman&color=blue" alt="Profile Views" />
-</p>
 
 ---
 
@@ -56,4 +65,3 @@
 - 👉 [Face Detection using OpenCV](https://github.com/kartikpbatman/OpenCV_Projects)  
 - 👉 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025)  
 - 👉 [GrindSEO_redesign](https://github.com/kartikpbatman/seowebsite)
-
