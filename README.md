@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Kartik Padia 👋</h1>
 <p align="center">
   🎯 AI/ML Enthusiast | Python Developer | OpenCV Learner  
+  📍 Rajkot, Gujarat, India
 </p>
 
 ---
@@ -25,23 +26,27 @@
 
 ---
 
-
 ## 🚀 About Me
 
-- 🧠 Currently learning **AI/ML** and building real-world projects
-- 🧪 Working on **Face Detection & Recognition using OpenCV**
-- 📚 Strong grasp of **Python**, **Pandas**, **Numpy**, and **Data Structures**
-- 🌱 Exploring **Computer Vision**, **ML Models**, and **Web Automation**
+- 🧠 Currently learning AI/ML and building real-world projects
+- 🧪 Working on Face Detection & Recognition using OpenCV
+- 📚 Strong grasp of Python, Pandas, NumPy, Data Structures
+- 🌱 Exploring Computer Vision, ML Models, Web Automation
 - 💡 Passionate about solving real-world problems using AI
-- 📫 Email me at: kartikbpadia0707@gmail.com  
-- 💼 Looking for an **AI/ML internship**
+- 📫 Email: kartikbpadia0707@gmail.com  
+- 💼 Seeking AI/ML internship opportunities
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&show_icons=true&theme=radical" alt="Kartik's GitHub Stats" />
+  <!-- GitHub overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&show_icons=true&theme=radical" alt="GitHub Stats" /><br>
+  <!-- Streak stats: total contributions, current & longest streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikpbatman&theme=radical" alt="GitHub Streak" /><br>
+  <!-- Profile view counter -->
+  <img src="https://komarev.com/ghpvc/?username=kartikpbatman&color=blue" alt="Profile Views" />
 </p>
 
 ---
@@ -49,6 +54,6 @@
 ## 📌 Pinned Projects
 
 - 👉 [Face Detection using OpenCV](https://github.com/kartikpbatman/OpenCV_Projects)  
-- 👉 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025)
+- 👉 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025)  
 - 👉 [GrindSEO_redesign](https://github.com/kartikpbatman/seowebsite)
 
