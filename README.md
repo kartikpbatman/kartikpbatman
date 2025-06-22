@@ -1,13 +1,9 @@
 <h3 align="center">Hi, This is Kartik Padia :wave: </h3>
 <br>
-
-
   
  <img align="left" src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" /> 
  <br>
- <br>
 
-<img  width="300px" height="250px" align="right" src="./imgs/ai-robot-coding.png">
 
 <link rel="stylesheet" align="left" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
