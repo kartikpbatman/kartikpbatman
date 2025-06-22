@@ -1,69 +1,41 @@
-<h1 align="center">👋 Hi! I'm Kartik Padia 💻</h1>
+👋 Hi, This is Kartik Padia 💻
 
-<p align="center">
-  🎯 AI/ML Enthusiast | Python Developer | OpenCV Learner
-</p>
+Failed to load image
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" />
-</p>
+View link
 
-<hr>
+<img align="left" src="https://komarev.com/ghpvc/?username=kartikpbatman&#x26;label=Profile%20views&#x26;color=blueviolet&#x26;style=flat" alt="kartikpbatman">
 
-<h2 align="center">🧑‍💻 Tech Stack</h2>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo"  />
-</div>
+<img width="300px" height="250px" align="right" src="https://github.com/kartikpbatman/kartikpbatman/blob/main/imgs/artificial-intelligence-robot-point-vector-43479788-removebg-preview.png"> <link rel="stylesheet" align="left" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+🌱 I’m currently learning AI/ML and building real-world projects
+💡 I’m a Machine Learning enthusiast passionate about integrating AI into real-world applications
+🔭 love to explore Computer Vision, ML Models, and Web Development
+⚡ Fun fact I love to learn something new every day
+📫 How to reach me kartikbpadia0707@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&#x26;show_icons=true&#x26;theme=dark&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=FFFFFF&#x26;icon_color=9B59B6&#x26;text_color=C9D1D9" alt="GitHub Stats">
+🛠️ Tech Stack
+📊 Machine Learning & Data Science
 
-<hr>
 
-<br clear="both">
+<img width="">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo">
+<img width="">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas logo">
+<img width="">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy logo">
 
-<div align="center">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+🌐 Web Development
 
-### 🚀 About Me
 
-- 🧠 Currently learning AI/ML and building real-world projects
-- 🧪 Working on Face Detection & Recognition using OpenCV
-- 📚 Strong grasp of Python, Pandas, NumPy, Data Structures
-- 🌱 Exploring Computer Vision, ML Models, Web Development
-- 💡 Passionate about solving real-world problems using AI
-- 📫 Email: kartikbpadia0707@gmail.com  
-- 💼 Seeking AI/ML internship opportunities
+🖥️ Programming Languages
 
----
 
-## 📌 Pinned Projects
+🛢️ Databases & Tools
 
-- 👉 [House_Price_Pred](https://github.com/kartikpbatman/House_Price_Pred)
-- 👉 [Face Detection using OpenCV](https://github.com/kartikpbatman/OpenCV_Projects)  
-- 👉 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025)  
-- 👉 [GrindSEO_redesign](https://github.com/kartikpbatman/seowebsite)
 
+⚙️ Environments, Tools & Version Control
+
+
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikpbatman&#x26;theme=github_dark" alt="Profile Details">
