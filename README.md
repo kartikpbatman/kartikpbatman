@@ -1,7 +1,7 @@
 <h3 align="center">Hi, This is Kartik Padia :wave: </h3>
 <br>
 
-![Banner](https://github.com/kartikpbatman/kartikpbatman/blob/main/imgs/github-header-image.png?raw=true)
+
   
  <img align="left" src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" /> 
  <br>
