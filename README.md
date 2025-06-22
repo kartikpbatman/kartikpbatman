@@ -17,13 +17,13 @@
 - 💼 **Seeking AI/ML internship opportunities**
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
 </div>
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 ### 🤖 AI/ML & Data Science
 [![My Skills](https://skillicons.dev/icons?i=py,opencv)](https://skillicons.dev)
