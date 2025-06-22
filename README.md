@@ -62,6 +62,8 @@
 
 ## 📌 Pinned Projects
 
+- 👉 [House_Price_Pred](https://github.com/kartikpbatman/House_Price_Pred)
 - 👉 [Face Detection using OpenCV](https://github.com/kartikpbatman/OpenCV_Projects)  
 - 👉 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025)  
 - 👉 [GrindSEO_redesign](https://github.com/kartikpbatman/seowebsite)
+
