@@ -5,7 +5,7 @@
  <br>
 
 
-<link rel="stylesheet" align="left" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" align="center" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 - 🧠 I'm currently learning **AI/ML and building real-world projects**
 - 💡 I'm an **AI/ML enthusiast** passionate about solving real-world problems using AI
@@ -19,7 +19,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
 ## 🛠️ Tech Stack
