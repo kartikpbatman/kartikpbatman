@@ -1,7 +1,7 @@
 <h3 align="center">Hi, This is Kartik Padia :wave: </h3>
 <br>
   
- <img align="left" src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" /> 
+ <img align="center" src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" /> 
  <br>
 
 
@@ -19,6 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kartikpbatman&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
 ## 🛠️ Tech Stack
