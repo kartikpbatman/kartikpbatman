@@ -58,8 +58,8 @@
 |---------|-------------|------------|
 | 🏠 [House Price Prediction](https://github.com/kartikpbatman/House_Price_Pred) | ML model to predict house prices using regression techniques | Python, Pandas, NumPy, Scikit-learn |
 | 👁️ [Face Detection with OpenCV](https://github.com/kartikpbatman/OpenCV_Projects) | Computer vision project for face detection and recognition | Python, OpenCV, ML |
-| 🌐 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025) | Modern web application with responsive design | HTML, CSS, JavaScript, Bootstrap |
-| 🔍 [GrindSEO Redesign](https://github.com/kartikpbatman/seowebsite) | SEO-optimized website redesign project | HTML, CSS, JavaScript, SEO |
+| 🌐 [Web Project 2025](https://github.com/kartikpbatman/Web_project_2025) Github Pages [Link](https://kartikpbatman.github.io/Web_project_2025/) | Modern web application with responsive design | HTML, CSS, JavaScript, Bootstrap |
+| 🔍 [GrindSEO Redesign](https://github.com/kartikpbatman/seowebsite) Github Pages [Link](https://kartikpbatman.github.io/seowebsite/) | SEO-optimized website redesign project | HTML, CSS, JavaScript, SEO |
 
 </div>
 
