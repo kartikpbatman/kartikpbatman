@@ -1,7 +1,9 @@
 <h3 align="center">Hi, This is Kartik Padia :wave: </h3>
 <br>
-  
- <img align="center" src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" /> 
+ <div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=kartikpbatman&label=Profile%20views&color=0e75b6&style=flat" alt="kartikpbatman" />   
+ </div> 
+ 
  <br>
 
 
