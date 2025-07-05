@@ -40,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql)](https://skillicons.dev)
 
 ### 🖥️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
 ### 🛢️ Databases & Tools
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,github)](https://skillicons.dev)
