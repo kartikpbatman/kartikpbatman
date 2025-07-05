@@ -29,12 +29,12 @@
 
 ### 🤖 AI/ML & Data Science
 [![My Skills](https://skillicons.dev/icons?i=py,opencv)](https://skillicons.dev)
-<img width="" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
-<img width="" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
-<img width="" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="scikit-learn logo"  />
+<img/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px; width:auto;" alt="numpy logo" />
+<img/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:40px; width:auto;" alt="pandas logo"  />
+<img/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="height:40px; width:auto;" alt="scikit-learn logo"  />
 
 ### 🌐 Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql)](https://skillicons.dev)
